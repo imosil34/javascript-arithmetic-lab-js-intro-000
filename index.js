@@ -50,5 +50,5 @@ function preserveDecimal(n){
 }
 
 function preserveDecimal(n){
-  return parseInt('why', 10);
+  return parseInt('whynot', 10);
 }
