@@ -40,4 +40,3 @@ function decrement(n){
  function preserveDecimal(n){
   return parseFloat('2.222');
 }
-
