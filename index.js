@@ -34,3 +34,7 @@ function decrement(n){
   n--;
   return n;
 }
+
+function parseInt(n){
+  return (n,10);
+}
