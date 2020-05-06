@@ -50,5 +50,5 @@ function preserveDecimal(n){
 }
 
 function preserveDecimal(n){
-  return parseFloat('2.222',10);
+  return parseFloat('2.222');
 }
