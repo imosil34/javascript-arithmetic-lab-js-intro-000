@@ -1,21 +1,21 @@
 function add(){
-  return 
+  return
 }
 function subtract(){
-  return 
+  return
 }
 function multiply(){
-  return 
+  return
 }
 function divide(){
-  return 
+  return
 }
 function divide(a, b){
-  
+
   return (a/b);
 }
 function increment(n){
-  
+
   return n++;
 }
 function decrement(n){
